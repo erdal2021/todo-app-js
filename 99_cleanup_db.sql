@@ -1,3 +1,0 @@
-DROP USER IF EXISTS 'todouser'@'localhost';
-FLUSH PRIVILEGES;
-DROP DATABASE IF EXISTS todoexpress;
